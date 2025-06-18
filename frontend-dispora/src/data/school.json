@@ -1,0 +1,4099 @@
+[{
+    "nama": "SDN Cangkiran 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.089879297339278",
+    "longitude": "110.30783795386053",
+    "id": "1"
+}, {
+    "nama": "SDN Cangkiran 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "2"
+}, {
+    "nama": "SDN Cangkiran 02",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "3"
+}, {
+    "nama": "SDN Jatibarang 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "4"
+}, {
+    "nama": "SDN Jatibarang 03",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "5"
+}, {
+    "nama": "SDN Jatibarang 03",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "6"
+}, {
+    "nama": "SDN Jatibarang 03",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "-7.063571697436436",
+    "longitude": "110.335430099881",
+    "id": "7"
+}, {
+    "nama": "SDN Jatisari",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.076886262582747",
+    "longitude": "110.30839581153056",
+    "id": "8"
+}, {
+    "nama": "SDN Jatisari",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "9"
+}, {
+    "nama": "SDN Karangmalang",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "10"
+}, {
+    "nama": "SDN Karangmalang",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "11"
+}, {
+    "nama": "SDN Karangmalang",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "12"
+}, {
+    "nama": "SDN Karangmalang",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "13"
+}, {
+    "nama": "SDN Kedungpane 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "14"
+}, {
+    "nama": "SDN Ngadirgo 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "15"
+}, {
+    "nama": "SDN Ngadirgo 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "16"
+}, {
+    "nama": "SDN Ngadirgo 02",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "17"
+}, {
+    "nama": "SDN Ngadirgo 02",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "18"
+}, {
+    "nama": "SDN Ngadirgo 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "19"
+}, {
+    "nama": "SDN Purwosari 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "20"
+}, {
+    "nama": "SDN Purwosari 02",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "21"
+}, {
+    "nama": "SDN Purwosari 02",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "22"
+}, {
+    "nama": "SDN Tambangan 01",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "23"
+}, {
+    "nama": "SDN Tambangan 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "24"
+}, {
+    "nama": "SDN Wonolopo 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "25"
+}, {
+    "nama": "SDN Wonolopo 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "26"
+}, {
+    "nama": "SDN Wonoplembon 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "27"
+}, {
+    "nama": "SDN Wonoplembon 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "28"
+}, {
+    "nama": "SDS Al Azhar 29",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "29"
+}, {
+    "nama": "SDS Al Azhar 29",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "30"
+}, {
+    "nama": "SDS Al Azhar 29",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "31"
+}, {
+    "nama": "SDS Al Azhar 29",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "32"
+}, {
+    "nama": "SDS Cahaya Bangsa",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "33"
+}, {
+    "nama": "SDS Imama",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "34"
+}, {
+    "nama": "SDS Marsudirini",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "35"
+}, {
+    "nama": "SDS Marsudirini",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "36"
+}, {
+    "nama": "SDS Marsudirini",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "37"
+}, {
+    "nama": "SDS Marsudirini",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "38"
+}, {
+    "nama": "SDS Muhammadiyah Plus",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "39"
+}, {
+    "nama": "SDS Permatasari",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "40"
+}, {
+    "nama": "SDN Cepoko",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "-7.073219137998426",
+    "longitude": "110.35249425118269",
+    "id": "41"
+}, {
+    "nama": "SDN Gunungpati 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "42"
+}, {
+    "nama": "SDN Gunungpati 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "43"
+}, {
+    "nama": "SDN Gunungpati 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.08689817736716",
+    "longitude": "110.35948030784022",
+    "id": "44"
+}, {
+    "nama": "SDN Kalisegoro",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "45"
+}, {
+    "nama": "SDN Kalisegoro",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "46"
+}, {
+    "nama": "SDN Kandri 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "47"
+}, {
+    "nama": "SDN Kandri 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "48"
+}, {
+    "nama": "SDN Mangunsari",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "49"
+}, {
+    "nama": "SDN Mangunsari",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "50"
+}, {
+    "nama": "SDN Ngijo 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "51"
+}, {
+    "nama": "SDN Ngijo 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "52"
+}, {
+    "nama": "SDN Nongkosawit 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "53"
+}, {
+    "nama": "SDN Pakintelan 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "54"
+}, {
+    "nama": "SDN Pakintelan 01",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "55"
+}, {
+    "nama": "SDN Pakintelan 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "56"
+}, {
+    "nama": "SDN Patemon 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "57"
+}, {
+    "nama": "SDN Patemon 01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "58"
+}, {
+    "nama": "SDN Patemon 01",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "59"
+}, {
+    "nama": "SDN Patemon 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "60"
+}, {
+    "nama": "SDN Plalangan 01",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "61"
+}, {
+    "nama": "SDN Plalangan 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "62"
+}, {
+    "nama": "SDN Pongangan",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "63"
+}, {
+    "nama": "SDN Pongangan",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "64"
+}, {
+    "nama": "SDN Sadeng 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "65"
+}, {
+    "nama": "SDN Sekaran 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "66"
+}, {
+    "nama": "SDN Sekaran 01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "67"
+}, {
+    "nama": "SDN Sekaran 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "68"
+}, {
+    "nama": "SDN Sukorejo 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "69"
+}, {
+    "nama": "SDN Sukorejo 03",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "70"
+}, {
+    "nama": "SDN Sukorejo 03",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "71"
+}, {
+    "nama": "SDN Sukorejo 03",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "72"
+}, {
+    "nama": "SDN Sumurrejo 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "73"
+}, {
+    "nama": "SDN Sumurrejo 01",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "74"
+}, {
+    "nama": "SDN Sumurrejo 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "75"
+}, {
+    "nama": "SDN Sumurrejo 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "76"
+}, {
+    "nama": "SD Islam Bintang Juara",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "77"
+}, {
+    "nama": "SD Islam Bintang Juara",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "78"
+}, {
+    "nama": "SD Ummul Quro'",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "79"
+}, {
+    "nama": "SD IT Mutiara Hati",
+    "sarana": "Lapangan Atletik",
+    "latitude": "-7.074346368505899",
+    "longitude": "110.38930568001854",
+    "id": "80"
+}, {
+    "nama": "SD IT Mutiara Hati",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "81"
+}, {
+    "nama": "SD IT Mutiara Hati",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "82"
+}, {
+    "nama": "SD Wijaya Kusuma 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "83"
+}, {
+    "nama": "SD IT Hidayatullah",
+    "sarana": "Lapangan Basket",
+    "latitude": "-7.056678790560541 ",
+    "longitude": "110.34389056885101",
+    "id": "84"
+}, {
+    "nama": "SD IT Hidayatullah",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "85"
+}, {
+    "nama": "SD Kristen Terang Bangsa 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "86"
+}, {
+    "nama": "SDN Bulustalan",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.990089807590142",
+    "longitude": "110.40300978001774",
+    "id": "87"
+}, {
+    "nama": "SDN Barusari 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.985319602640166",
+    "longitude": "110.40765409721196",
+    "id": "88"
+}, {
+    "nama": "SDN PLeburan 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "89"
+}, {
+    "nama": "SDN PLeburan 03",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "90"
+}, {
+    "nama": "SDN PLeburan 04",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "91"
+}, {
+    "nama": "SDN PLeburan 04",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "92"
+}, {
+    "nama": "SDN Wonodri",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "93"
+}, {
+    "nama": "SDN Peterongan",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "94"
+}, {
+    "nama": "SDN Lamper Kidul 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "95"
+}, {
+    "nama": "SDN Lamper Kidul 01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "96"
+}, {
+    "nama": "SDN Lamper Kidul 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "97"
+}, {
+    "nama": "SDN Lamper Kidul 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "98"
+}, {
+    "nama": "SDN Lamper Kidul 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "99"
+}, {
+    "nama": "SDN Lamper Tengah 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "100"
+}, {
+    "nama": "SDN Lamper Tengah 01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "101"
+}, {
+    "nama": "SDN Lamper Tengah 01",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "102"
+}, {
+    "nama": "SDN Lamper Tengah 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "103"
+}, {
+    "nama": "SDN Lamper Tengah 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "104"
+}, {
+    "nama": "SDN Lamper Tengah 02",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "105"
+}, {
+    "nama": "SDN Lamper Lor",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "106"
+}, {
+    "nama": "SD PL Bernardus 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "107"
+}, {
+    "nama": "SD PL Bernardus 01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "108"
+}, {
+    "nama": "SD PL Bernardus 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "109"
+}, {
+    "nama": "SD PL Bernardus 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "110"
+}, {
+    "nama": "SD PL Bernardus 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "111"
+}, {
+    "nama": "SD PL Bernardus 03",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "112"
+}, {
+    "nama": "SD PL Bernardus 04",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "113"
+}, {
+    "nama": "SD PL Bernardus 04",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "114"
+}, {
+    "nama": "SD Masehi Mugassari",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "115"
+}, {
+    "nama": "SD IT Bina Amal",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.99409732308006",
+    "longitude": "110.41437144835474",
+    "id": "116"
+}, {
+    "nama": "SD IT Bina Amal",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "117"
+}, {
+    "nama": "SD IT Bina Amal",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "118"
+}, {
+    "nama": "SD IT Al Firdaus",
+    "sarana": "Lapangan Basket",
+    "latitude": "-6.995089110830059",
+    "longitude": "110.42521678948101",
+    "id": "119"
+}, {
+    "nama": "SD IT Al Firdaus",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "120"
+}, {
+    "nama": "SD PL Santo Yusup",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "121"
+}, {
+    "nama": "SD PL Santo Yusup",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "122"
+}, {
+    "nama": "SD Kristen 1 Yski",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "123"
+}, {
+    "nama": "SD Kristen 1 Yski",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "124"
+}, {
+    "nama": "SD Santo Antonius 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "125"
+}, {
+    "nama": "SD Santo Antonius 01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "126"
+}, {
+    "nama": "SD Andreas",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "127"
+}, {
+    "nama": "SDN Bangetayu Wetan 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "128"
+}, {
+    "nama": "SDN Bangetayu Wetan 01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "129"
+}, {
+    "nama": "SDN Bangetayu Wetan 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "130"
+}, {
+    "nama": "SDN Bangetayu Wetan 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "131"
+}, {
+    "nama": "SDN Gebangsari 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.964792147395597",
+    "longitude": "110.46273148186832",
+    "id": "132"
+}, {
+    "nama": "SDN Gebangsari 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.969364502718336",
+    "longitude": "110.46740625118169",
+    "id": "133"
+}, {
+    "nama": "SDN Genuksari 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.964931806015296",
+    "longitude": "110.47806579536086",
+    "id": "134"
+}, {
+    "nama": "SDN Karangroto 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "135"
+}, {
+    "nama": "SDN Karangroto 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "136"
+}, {
+    "nama": "SDN Karangroto 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "137"
+}, {
+    "nama": "SDN Karangroto 03",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "138"
+}, {
+    "nama": "SDN Muktiharjo Lor",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "139"
+}, {
+    "nama": "SDN Muktiharjo Lor",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "140"
+}, {
+    "nama": "SDN Sembungharjo 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "141"
+}, {
+    "nama": "SDN Sembungharjo 01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "142"
+}, {
+    "nama": "SDN Sembungharjo 01",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "143"
+}, {
+    "nama": "SDN Sembungharjo 01",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "144"
+}, {
+    "nama": "SDN Sembungharjo 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "145"
+}, {
+    "nama": "SDN Trimulyo 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "146"
+}, {
+    "nama": "SDN Trimulyo 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "147"
+}, {
+    "nama": "SDI Darul Falah",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "148"
+}, {
+    "nama": "SDI Darul Falah",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "149"
+}, {
+    "nama": "SDI Darul Huda",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "150"
+}, {
+    "nama": "SDI Nurul Qur'an",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "151"
+}, {
+    "nama": "SDIT Nurul Iman",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "152"
+}, {
+    "nama": "SDN Bugangan 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.970393000437696",
+    "longitude": "110.43803751070425",
+    "id": "153"
+}, {
+    "nama": "SDN Karangtempel",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "154"
+}, {
+    "nama": "SDN Karangtempel",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "155"
+}, {
+    "nama": "SDN Kemijen 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "156"
+}, {
+    "nama": "SDN Kemijen 01",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "157"
+}, {
+    "nama": "SDN Kemijen 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "158"
+}, {
+    "nama": "SDN Kemijen 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "159"
+}, {
+    "nama": "SDN Mlatiharjo 01",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "160"
+}, {
+    "nama": "SDN Rejosari 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "161"
+}, {
+    "nama": "SDN Rejosari 01",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "162"
+}, {
+    "nama": "SDN Rejosari 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "163"
+}, {
+    "nama": "SDN Rejosari 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "164"
+}, {
+    "nama": "SDN Sarirejo",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "165"
+}, {
+    "nama": "SDN Sarirejo",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "166"
+}, {
+    "nama": "SDN Sarirejo",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "167"
+}, {
+    "nama": "SD Advent",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.979271834202488",
+    "longitude": "110.4321455946461",
+    "id": "168"
+}, {
+    "nama": "SD Advent",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "169"
+}, {
+    "nama": "SD Advent",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "170"
+}, {
+    "nama": "SD Bala Keselamatan",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "171"
+}, {
+    "nama": "SD Bala Keselamatan",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "172"
+}, {
+    "nama": "SD Darul Qur'an",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "173"
+}, {
+    "nama": "SD Darul Qur'an",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "174"
+}, {
+    "nama": "SD Darul Qur'an",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "175"
+}, {
+    "nama": "SD Darunnajah",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "176"
+}, {
+    "nama": "SD Islam Pesanggrahan",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "-6.96897175208844",
+    "longitude": "110.43888489803496",
+    "id": "177"
+}, {
+    "nama": "SD Kanisius Kobong",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "178"
+}, {
+    "nama": "SD Kanisius Kobong",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "179"
+}, {
+    "nama": "SD Kanisius Kobong",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "180"
+}, {
+    "nama": "SD Karangturi",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "181"
+}, {
+    "nama": "SD Karangturi",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "182"
+}, {
+    "nama": "SD Karangturi",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "183"
+}, {
+    "nama": "SD Kristen 2 YSKI",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "184"
+}, {
+    "nama": "SD Kristen 2 YSKI",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "185"
+}, {
+    "nama": "SD Kristen 2 YSKI",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "186"
+}, {
+    "nama": "SD Marsudirini Cor Yesu",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "187"
+}, {
+    "nama": "SD Marsudirini Cor Yesu",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "188"
+}, {
+    "nama": "SD Marsudirini Cor Yesu",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "189"
+}, {
+    "nama": "SD Masehi PSAK Citandui",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "190"
+}, {
+    "nama": "SD Masehi PSAK Citandui",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "191"
+}, {
+    "nama": "SD Masehi PSAK Citandui",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "192"
+}, {
+    "nama": "SD Xaverius",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "193"
+}, {
+    "nama": "SD Xaverius",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "194"
+}, {
+    "nama": "SDN Bandarharjo 01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "195"
+}, {
+    "nama": "SDN Bandarharjo 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "196"
+}, {
+    "nama": "SDN Bulu Lor",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "-6.973068786596367",
+    "longitude": "110.40463179924627",
+    "id": "197"
+}, {
+    "nama": "SDN Kuningan 01",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "198"
+}, {
+    "nama": "SDN Kuningan 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "199"
+}, {
+    "nama": "SDN Kuningan 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "200"
+}, {
+    "nama": "SDN Kuningan 04",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "201"
+}, {
+    "nama": "SDN Panggung Lor",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "202"
+}, {
+    "nama": "SDN Panggung Lor",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "203"
+}, {
+    "nama": "SDN Purwosari 01",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "204"
+}, {
+    "nama": "SDN Tanjung Mas",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "205"
+}, {
+    "nama": "SD Al Iisyad Al Islamiyah",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.967453100168584",
+    "longitude": "110.42008100975487",
+    "id": "206"
+}, {
+    "nama": "SD Al Iisyad Al Islamiyah",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "207"
+}, {
+    "nama": "SD Bandarharjo (Swasta)",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "208"
+}, {
+    "nama": "SD Bandarharjo (Swasta)",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "209"
+}, {
+    "nama": "SD Barunawati",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "210"
+}, {
+    "nama": "SD Bhinneka",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "211"
+}, {
+    "nama": "SD Ign. Slamet Riyadi",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "212"
+}, {
+    "nama": "SD Ign. Slamet Riyadi",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "213"
+}, {
+    "nama": "SD Ign. Slamet Riyadi",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "214"
+}, {
+    "nama": "SD Islam Taqwiyatul Wahon",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "215"
+}, {
+    "nama": "SD Islam Taqwiyatul Wahon",
+    "sarana": "Lapangan Atletik",
+    "latitude": "-6.948215292183122",
+    "longitude": "110.43804575201443",
+    "id": "216"
+}, {
+    "nama": "SD Kanisius Hasanudin",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "217"
+}, {
+    "nama": "SD Kusuma Bhakti",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "218"
+}, {
+    "nama": "SD Marsudirini Gedangan",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "219"
+}, {
+    "nama": "SD Marsudirini Gedangan",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "220"
+}, {
+    "nama": "SD Marsudirini Gedangan",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "221"
+}, {
+    "nama": "SD Marsudirini Gedangan",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "222"
+}, {
+    "nama": "SD Marsudirini Gedangan",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "223"
+}, {
+    "nama": "SD Muhammadiyah 05",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "224"
+}, {
+    "nama": "SD Muhammadiyah 10",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "225"
+}, {
+    "nama": "SD Muhammadiyah 10",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "226"
+}, {
+    "nama": "SD PGRI",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "227"
+}, {
+    "nama": "SD PGRI",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "228"
+}, {
+    "nama": "SD PGRI",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "229"
+}, {
+    "nama": "SD Shalom",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "230"
+}, {
+    "nama": "SD Wesley",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "231"
+}, {
+    "nama": "SDN Bangunharjo ",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "232"
+}, {
+    "nama": "SDN Kembangsari 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "233"
+}, {
+    "nama": "SDN Pendrikan Kidul",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "234"
+}, {
+    "nama": "SDN Pendrikan Kidul",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "235"
+}, {
+    "nama": "SDN Pendrikan Kidul",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "236"
+}, {
+    "nama": "SDN Pendrikan Lor 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "237"
+}, {
+    "nama": "SDN Pendrikan Lor 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "238"
+}, {
+    "nama": "SDN Pendrikan Lor 03",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "239"
+}, {
+    "nama": "SDN Pendrikan Lor 03",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "240"
+}, {
+    "nama": "SDN Pekunden",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "241"
+}, {
+    "nama": "SDN Pekunden",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "242"
+}, {
+    "nama": "SDN Pekunden",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "243"
+}, {
+    "nama": "SDN Miroto",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "244"
+}, {
+    "nama": "SDN Miroto",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "245"
+}, {
+    "nama": "SDN Karang Kidul",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "246"
+}, {
+    "nama": "SD Tunas Harum Bangsa",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "247"
+}, {
+    "nama": "SD Tunas Harum Bangsa",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "248"
+}, {
+    "nama": "SD Tunas Harum Bangsa",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "249"
+}, {
+    "nama": "SD Tunas Harum Bangsa",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "250"
+}, {
+    "nama": "SD Kanisius Pekunden",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "251"
+}, {
+    "nama": "SD Kanisius Pekunden",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "252"
+}, {
+    "nama": "SD Kranggan",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "253"
+}, {
+    "nama": "SD Kristen 3 YSKI",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "254"
+}, {
+    "nama": "SD Theresiana 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "255"
+}, {
+    "nama": "SD Theresiana 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "256"
+}, {
+    "nama": "SD Kuncup Melati",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "257"
+}, {
+    "nama": "SD Nusaputera",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "258"
+}, {
+    "nama": "SD Nusaputera",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "259"
+}, {
+    "nama": "SD Nusaputera",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "260"
+}, {
+    "nama": "SD Nusaputera",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "261"
+}, {
+    "nama": "SD Kristen Tri Tunggal",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "262"
+}, {
+    "nama": "SD Kebon Dalem",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "263"
+}, {
+    "nama": "SD Kebon Dalem",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "264"
+}, {
+    "nama": "SD Kebon Dalem",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "265"
+}, {
+    "nama": "SD Islam NU Pungkuran",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.974614905338681",
+    "longitude": "110.42379754036487",
+    "id": "266"
+}, {
+    "nama": "SD Marsudirini",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "267"
+}, {
+    "nama": "SD Marsudirini",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "268"
+}, {
+    "nama": "SD Mahad Islam",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "269"
+}, {
+    "nama": "SD Hj. Isriati Baiturrahman 1",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "270"
+}, {
+    "nama": "SD Hj. Isriati Baiturrahman 1",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "271"
+}, {
+    "nama": "SD Hj. Isriati Baiturrahman 1",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "272"
+}, {
+    "nama": "SDN Bojong Salaman 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.991536508116271",
+    "longitude": "110.39968715488378",
+    "id": "273"
+}, {
+    "nama": "SDN Bojong Salaman 01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "274"
+}, {
+    "nama": "SDN Gisikdrono 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.992291906464812",
+    "longitude": "110.38838795118181",
+    "id": "275"
+}, {
+    "nama": "SDN Gisikdrono 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "276"
+}, {
+    "nama": "SDN Kalibanteng Kidul 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.9901426621841045",
+    "longitude": "110.38511529434459",
+    "id": "277"
+}, {
+    "nama": "SDN Kalibanteng Kidul 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "278"
+}, {
+    "nama": "SDN Kalibanteng Kidul 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "-6.994838609317593",
+    "longitude": "110.38079400968483",
+    "id": "279"
+}, {
+    "nama": "SDN Kalibanteng Kidul 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.986442263744241",
+    "longitude": "110.38330028269479",
+    "id": "280"
+}, {
+    "nama": "SDN Kalibanteng Kulon 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.991749708193787",
+    "longitude": "110.37901442502486",
+    "id": "281"
+}, {
+    "nama": "SDN Karangayu 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "282"
+}, {
+    "nama": "SDN Karangayu 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "283"
+}, {
+    "nama": "SDN Karangayu 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "284"
+}, {
+    "nama": "SDN Kembangarum 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "285"
+}, {
+    "nama": "SDN Kembangarum 01",
+    "sarana": "Lapangan Bola Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "286"
+}, {
+    "nama": "SDN Kembangarum 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "287"
+}, {
+    "nama": "SDN Manyaran 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "288"
+}, {
+    "nama": "SDN Manyaran 01",
+    "sarana": "Lapangan Bola Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "289"
+}, {
+    "nama": "SDN Manyaran 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "290"
+}, {
+    "nama": "SDN Manyaran 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "291"
+}, {
+    "nama": "SDN Manyaran 03",
+    "sarana": "Lapangan Bola Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "292"
+}, {
+    "nama": "SDN Ngemplak Simongan 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "293"
+}, {
+    "nama": "SDN Tambakharjo",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "294"
+}, {
+    "nama": "SDN Tawang Mas 01",
+    "sarana": "Lapangan Bola Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "295"
+}, {
+    "nama": "SD Al-Azhar 25",
+    "sarana": "Lapangan Bola Basket",
+    "latitude": "-6.98565750273215 ",
+    "longitude": "110.38565836927783",
+    "id": "296"
+}, {
+    "nama": "SD Al-Azhar 25",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "297"
+}, {
+    "nama": "SD Bunda Hati Kudus",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "298"
+}, {
+    "nama": "SD Bunda Hati Kudus",
+    "sarana": "Lapangan Bola Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "299"
+}, {
+    "nama": "SD Bunda Hati Kudus",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "300"
+}, {
+    "nama": "SD Bunda Hati Kudus",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "301"
+}, {
+    "nama": "SD Bunda Hati Kudus",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "302"
+}, {
+    "nama": "SD Daniel Creative School",
+    "sarana": "Lapangan Bola Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "303"
+}, {
+    "nama": "SD Daniel Creative School",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "304"
+}, {
+    "nama": "SD Darussalam",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "305"
+}, {
+    "nama": "SD I Al Qolam",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "306"
+}, {
+    "nama": "SD K Terang Bangsa ",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "307"
+}, {
+    "nama": "SD K Terang Bangsa ",
+    "sarana": "Lapangan Bola Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "308"
+}, {
+    "nama": "SD K Terang Bangsa ",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "309"
+}, {
+    "nama": "SD Kanisius Kurmosari",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "310"
+}, {
+    "nama": "SD Kristen Tri Tunggal",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "311"
+}, {
+    "nama": "SD Kristen Tri Tunggal",
+    "sarana": "Lapangan Bola Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "312"
+}, {
+    "nama": "SD Kristen Tri Tunggal",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "313"
+}, {
+    "nama": "SD Maranatha 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "314"
+}, {
+    "nama": "SD Muhammadiyah 07",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "315"
+}, {
+    "nama": "SD Muhammadiyah 12",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "316"
+}, {
+    "nama": "SD Muhammadiyah 12",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "317"
+}, {
+    "nama": "SD Nasima",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "318"
+}, {
+    "nama": "SDN Tugurejo 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "319"
+}, {
+    "nama": "SDN Tugurejo 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "320"
+}, {
+    "nama": "SDN Tugurejo 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "321"
+}, {
+    "nama": "SDN Tugurejo 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "322"
+}, {
+    "nama": "SDN Tugurejo 03",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "323"
+}, {
+    "nama": "SDN Karanganyar 01",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "324"
+}, {
+    "nama": "SDN Mangkang Kulon 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "325"
+}, {
+    "nama": "SDN Mangkang Wetan 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "326"
+}, {
+    "nama": "SDN Mangkang Wetan 01",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "327"
+}, {
+    "nama": "SDN Mangkang Wetan 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "328"
+}, {
+    "nama": "SDN Mangkang Wetan 03",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "329"
+}, {
+    "nama": "SDN Mangunharjo Tugu",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "330"
+}, {
+    "nama": "SDN Mangunharjo Tugu",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "331"
+}, {
+    "nama": "SDN Randugarut",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "332"
+}, {
+    "nama": "SD Islam Hasanuddin 03",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "-6.970750603409936",
+    "longitude": "110.3076427673547",
+    "id": "333"
+}, {
+    "nama": "SDN Pandeanlamper 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "334"
+}, {
+    "nama": "SDN Pandeanlamper 03",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "335"
+}, {
+    "nama": "SDN Pandeanlamper 04",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "336"
+}, {
+    "nama": "SDN Pandeanlamper 05",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "337"
+}, {
+    "nama": "SDN Pandeanlamper 05",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "338"
+}, {
+    "nama": "SDN Gayamsari 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.000951206901333",
+    "longitude": "110.44718419906299",
+    "id": "339"
+}, {
+    "nama": "SDN Siwalan",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "340"
+}, {
+    "nama": "SDN Siwalan",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "341"
+}, {
+    "nama": "SDN Sambirejo 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "342"
+}, {
+    "nama": "SDN Sambirejo 02",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "343"
+}, {
+    "nama": "SDN Sambirejo 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "344"
+}, {
+    "nama": "SDN Sawah Besar 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "345"
+}, {
+    "nama": "SDN Sawah Besar 01",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "346"
+}, {
+    "nama": "SDN Sawah Besar 01",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "347"
+}, {
+    "nama": "SDN Sawah Besar 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "348"
+}, {
+    "nama": "SDN Kaligawe",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "349"
+}, {
+    "nama": "SDN Kaligawe",
+    "sarana": "Lapangan Atletik",
+    "latitude": "-6.966420593919279",
+    "longitude": "110.4482954071782",
+    "id": "350"
+}, {
+    "nama": "SDN Kaligawe",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "351"
+}, {
+    "nama": "SDN Tambakrejo 01",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "352"
+}, {
+    "nama": "SD Asshodiqiyah",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "353"
+}, {
+    "nama": "SD Asshodiqiyah",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "354"
+}, {
+    "nama": "SD Pangudiluhur Vincentius",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "355"
+}, {
+    "nama": "SD Pangudiluhur Vincentius",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "356"
+}, {
+    "nama": "SD Pangudiluhur Vincentius",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "357"
+}, {
+    "nama": "SDN Candi 01",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "-7.007939319372806",
+    "longitude": "110.43220221070466",
+    "id": "358"
+}, {
+    "nama": "SDN Candi 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "-7.014885520678314",
+    "longitude": "110.42755535572654",
+    "id": "359"
+}, {
+    "nama": "SDN Jatingaleh 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "360"
+}, {
+    "nama": "SDN Jatingaleh 01",
+    "sarana": "Lapangan Bola Basket",
+    "latitude": "-7.026574669145307",
+    "longitude": "110.427125209685",
+    "id": "361"
+}, {
+    "nama": "SDN Jatingaleh 01",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "362"
+}, {
+    "nama": "SDN Jatingaleh 01",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "363"
+}, {
+    "nama": "SDN Jatingaleh 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "-7.028408880509362",
+    "longitude": "110.42056044036525",
+    "id": "364"
+}, {
+    "nama": "SDN Jomblang 01",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "-7.009970525772309",
+    "longitude": "110.43914280968492",
+    "id": "365"
+}, {
+    "nama": "SDN Jomblang 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "-7.010653320610518",
+    "longitude": "110.43540045386003",
+    "id": "366"
+}, {
+    "nama": "SDN Jomblang 05",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.011785423945999",
+    "longitude": "110.4432767961901",
+    "id": "367"
+}, {
+    "nama": "SDN Jomblang 05",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "368"
+}, {
+    "nama": "SDN Karanganyar Gunung 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "369"
+}, {
+    "nama": "SDN Karanganyar Gunung 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "370"
+}, {
+    "nama": "SDN Tegalsari 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "371"
+}, {
+    "nama": "SDN Tegalsari 01",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "372"
+}, {
+    "nama": "SDN Tegalsari 03",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "373"
+}, {
+    "nama": "SDN Wonotingal",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "374"
+}, {
+    "nama": "SDN Wonotingal",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "375"
+}, {
+    "nama": "SDN Wonotingal",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "376"
+}, {
+    "nama": "SD Islam Al Fajar",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "377"
+}, {
+    "nama": "SD Islam Al Fajar",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "378"
+}, {
+    "nama": "SD Kristen Immanuel",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "379"
+}, {
+    "nama": "SD Kristen Immanuel",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "380"
+}, {
+    "nama": "SD Kanisius Jatingaleh",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "381"
+}, {
+    "nama": "SD Muhammadiyah 16",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "382"
+}, {
+    "nama": "SD Mondial",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "383"
+}, {
+    "nama": "SD Mondial",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "384"
+}, {
+    "nama": "SD Mondial",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "385"
+}, {
+    "nama": "SD Semarang Multinational School",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "386"
+}, {
+    "nama": "SD Semarang Multinational School",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "387"
+}, {
+    "nama": "SDN Bendan Ngisor",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.015144810778761",
+    "longitude": "110.39434342816699",
+    "id": "388"
+}, {
+    "nama": "SDN Bendungan",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.996080160819207",
+    "longitude": "110.41042405858553",
+    "id": "389"
+}, {
+    "nama": "SDN Gajahmungkur 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.011309589109876",
+    "longitude": "110.40970069536135",
+    "id": "390"
+}, {
+    "nama": "SDN Gajahmungkur 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.013384418965237",
+    "longitude": "110.40565308186883",
+    "id": "391"
+}, {
+    "nama": "SDN Gajahmungkur 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "392"
+}, {
+    "nama": "SDN Gajahmungkur 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.011783615491018",
+    "longitude": "110.410777554884",
+    "id": "393"
+}, {
+    "nama": "SDN Gajahmungkur 04",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.018708314885335",
+    "longitude": "110.41590954139149",
+    "id": "394"
+}, {
+    "nama": "SDN Karangrejo 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "395"
+}, {
+    "nama": "SDN Karangrejo 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "396"
+}, {
+    "nama": "SDN Lempongsari",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "397"
+}, {
+    "nama": "SDN Lempongsari",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "398"
+}, {
+    "nama": "SDN Petompon 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "399"
+}, {
+    "nama": "SDN Petompon 01",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "400"
+}, {
+    "nama": "SDN Sampangan 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "401"
+}, {
+    "nama": "SDN Sampangan 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "402"
+}, {
+    "nama": "SDN Sampangan 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "403"
+}, {
+    "nama": "SD Al Huda",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.004929020506304",
+    "longitude": "110.39821601954553",
+    "id": "404"
+}, {
+    "nama": "SD Islam Al Madina",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "405"
+}, {
+    "nama": "SD Islam Al Madina",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "406"
+}, {
+    "nama": "SD Don Bosko",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "407"
+}, {
+    "nama": "SD Don Bosko",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "408"
+}, {
+    "nama": "SD Don Bosko",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "409"
+}, {
+    "nama": "SD Don Bosko",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "410"
+}, {
+    "nama": "SD Don Bosko",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "411"
+}, {
+    "nama": "SD Kemala Bhayangkari 04",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "412"
+}, {
+    "nama": "SD Kemala Bhayangkari 04",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "413"
+}, {
+    "nama": "SD Labschool",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "414"
+}, {
+    "nama": "SD Labschool",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "415"
+}, {
+    "nama": "SD Maria Regina",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "416"
+}, {
+    "nama": "SDN Tandang 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "417"
+}, {
+    "nama": "SDN Tandang 01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "418"
+}, {
+    "nama": "SDN Tandang 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "419"
+}, {
+    "nama": "SDN Tandang 04",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "420"
+}, {
+    "nama": "SDN Tandang 04",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "421"
+}, {
+    "nama": "SDN Sendangmulyo 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "422"
+}, {
+    "nama": "SDN Sendangmulyo 01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "423"
+}, {
+    "nama": "SDN Sendangmulyo 01",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "424"
+}, {
+    "nama": "SDN Sendangmulyo 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "425"
+}, {
+    "nama": "SDN Sendangmulyo 04",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "426"
+}, {
+    "nama": "SDN Sendangmulyo 04",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "427"
+}, {
+    "nama": "SDN Sendangmulyo 04",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "428"
+}, {
+    "nama": "SDN Sendangmulyo 04",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "429"
+}, {
+    "nama": "SDN Sambiroto 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "430"
+}, {
+    "nama": "SDN Sambiroto 01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "431"
+}, {
+    "nama": "SDN Sambiroto 01",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "432"
+}, {
+    "nama": "SDN Sambiroto 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "433"
+}, {
+    "nama": "SDN Sambiroto 02",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "434"
+}, {
+    "nama": "SDN Sambiroto 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "435"
+}, {
+    "nama": "SDN Sambiroto 03",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "436"
+}, {
+    "nama": "SDN Sendangguwo 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "437"
+}, {
+    "nama": "SDN Rowosari 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "438"
+}, {
+    "nama": "SDN Rowosari 01",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "439"
+}, {
+    "nama": "SDN Rowosari 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "440"
+}, {
+    "nama": "SDN Kedungmundu",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "441"
+}, {
+    "nama": "SDN Mangunharjo",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "442"
+}, {
+    "nama": "SDN Bulusan",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.062295802656595",
+    "longitude": "110.44535404047349",
+    "id": "443"
+}, {
+    "nama": "SDN Bulusan",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "444"
+}, {
+    "nama": "SDN Tembalang",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "445"
+}, {
+    "nama": "SDN Kramas",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "446"
+}, {
+    "nama": "SD Alam Ar Ridho",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "447"
+}, {
+    "nama": "SD Bina Harapan",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "448"
+}, {
+    "nama": "SD Bina Harapan",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "449"
+}, {
+    "nama": "SD Islam Daarul Muwahidin",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "450"
+}, {
+    "nama": "SD Islam Daarul Muwahidin",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "-7.040406886275668",
+    "longitude": "110.46755215386037",
+    "id": "451"
+}, {
+    "nama": "SD Islam Tunas Harapan",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.035174083759573",
+    "longitude": "110.47199042234652",
+    "id": "452"
+}, {
+    "nama": "SD Islam Tunas Harapan",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "453"
+}, {
+    "nama": "SD Islam Tunas Harapan",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "-7.035174083759535",
+    "longitude": "110.47207625386018",
+    "id": "454"
+}, {
+    "nama": "SD Islam Tunas Harapan",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "455"
+}, {
+    "nama": "SD Islamadina",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.037339832806038",
+    "longitude": "110.46979384694448",
+    "id": "456"
+}, {
+    "nama": "SD Kebon Dalem 2",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "457"
+}, {
+    "nama": "SD Kebon Dalem 2",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "458"
+}, {
+    "nama": "SD Kanisius Lamper Tengah",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "459"
+}, {
+    "nama": "SD Kanisius Lamper Tengah",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "460"
+}, {
+    "nama": "SDN Kalicari  01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "461"
+}, {
+    "nama": "SDN Kalicari  01",
+    "sarana": "Lapangan Bola Basket",
+    "latitude": "-6.991485959042962",
+    "longitude": "110.45796991153011",
+    "id": "462"
+}, {
+    "nama": "SDN Kalicari  02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.9955822095880915",
+    "longitude": "110.45528535385981",
+    "id": "463"
+}, {
+    "nama": "SDN Kalicari  02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "464"
+}, {
+    "nama": "SDN Kalicari  03",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "-7.00502861302827",
+    "longitude": "110.45453370783964",
+    "id": "465"
+}, {
+    "nama": "SDN Gemah",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.009369514610587",
+    "longitude": "110.46004986652542",
+    "id": "466"
+}, {
+    "nama": "SDN Palebon 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "467"
+}, {
+    "nama": "SDN Pedurungan Tengah 01",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "468"
+}, {
+    "nama": "SDN Pedurungan Tengah 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "469"
+}, {
+    "nama": "SDN Pedurungan Tengah 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "470"
+}, {
+    "nama": "SDN Pedurungan Tengah 02",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "471"
+}, {
+    "nama": "SDN Tlogosari Kulon  01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "472"
+}, {
+    "nama": "SDN Tlogosari Kulon  01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "473"
+}, {
+    "nama": "SDN Tlogosari Kulon  01",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "474"
+}, {
+    "nama": "SDN Tlogosari Kulon  02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "475"
+}, {
+    "nama": "SDN Tlogosari Kulon  03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "476"
+}, {
+    "nama": "SDN Tlogosari Kulon  03",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "477"
+}, {
+    "nama": "SDN Tlogosari Kulon  04",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "478"
+}, {
+    "nama": "SDN Tlogosari Kulon  05",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "479"
+}, {
+    "nama": "SDN Tlogosari Kulon  05",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "480"
+}, {
+    "nama": "SDN Tlogosari Kulon  06",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "481"
+}, {
+    "nama": "SDN Muktiharjo Kidul 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "482"
+}, {
+    "nama": "SDN Muktiharjo Kidul 01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "483"
+}, {
+    "nama": "SDN Muktiharjo Kidul 01",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "484"
+}, {
+    "nama": "SDN Muktiharjo Kidul 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "485"
+}, {
+    "nama": "SDN Muktiharjo Kidul 04",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "486"
+}, {
+    "nama": "SDN Tlogomulyo",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "487"
+}, {
+    "nama": "SDN Tlogomulyo",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "488"
+}, {
+    "nama": "SDN Tlogomulyo",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "489"
+}, {
+    "nama": "SDN Pedurungan Lor 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "490"
+}, {
+    "nama": "SDN Pedurungan Lor 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "491"
+}, {
+    "nama": "SDN Pedurungan Lor 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "492"
+}, {
+    "nama": "SDN Pedurungan Lor 02",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "493"
+}, {
+    "nama": "SDN Penggaron Kidul",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "494"
+}, {
+    "nama": "SDN Penggaron Kidul",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "495"
+}, {
+    "nama": "SDN Penggaron Kidul",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "496"
+}, {
+    "nama": "SDN Pedurungan Kidul 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "497"
+}, {
+    "nama": "SDN Pedurungan Kidul 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "498"
+}, {
+    "nama": "SDN Pedurungan Kidul 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "499"
+}, {
+    "nama": "SDN Pedurungan Kidul 03",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "500"
+}, {
+    "nama": "SDN Pedurungan Kidul 04",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "501"
+}, {
+    "nama": "SDN Pedurungan Kidul 04",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "502"
+}, {
+    "nama": "SDN Pedurungan Kidul 04",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "503"
+}, {
+    "nama": "SDN Pedurungan Kidul 05",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "504"
+}, {
+    "nama": "SDN Pedurungan Kidul 05",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "505"
+}, {
+    "nama": "SDN Pedurungan Kidul 05",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "506"
+}, {
+    "nama": "SDN Plamongansari 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "507"
+}, {
+    "nama": "SDN Plamongansari 01",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "508"
+}, {
+    "nama": "SDN Plamongansari 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "509"
+}, {
+    "nama": "SDN Plamongansari 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "510"
+}, {
+    "nama": "SDN Plamongansari 02",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "511"
+}, {
+    "nama": "SDN Plamongansari 02",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "512"
+}, {
+    "nama": "SDS Budi Luhur",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "513"
+}, {
+    "nama": "SDS Supriyadi",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "514"
+}, {
+    "nama": "SDS Katolik Sang Timur",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "515"
+}, {
+    "nama": "SDS Katolik Sang Timur",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "516"
+}, {
+    "nama": "SDS Katolik Sang Timur",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "517"
+}, {
+    "nama": "SDS Kanisius Tlogosari Kulon",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "518"
+}, {
+    "nama": "SDS Kanisius Tlogosari Kulon",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "519"
+}, {
+    "nama": "SDS Kanisius Tlogosari Kulon",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "520"
+}, {
+    "nama": "SDS Kanisius Tlogosari Kulon",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "521"
+}, {
+    "nama": "SDS PL Tarsisius",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "522"
+}, {
+    "nama": "SDS PL Tarsisius",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "523"
+}, {
+    "nama": "SDS Muhamadiyah 08",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "524"
+}, {
+    "nama": "SDS IT Harapan Bunda",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "525"
+}, {
+    "nama": "SDS IT Harapan Bunda",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "526"
+}, {
+    "nama": "SDS IT Harapan Bunda",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "527"
+}, {
+    "nama": "SDS Kemala Bhayangkari 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "528"
+}, {
+    "nama": "SDS Kemala Bhayangkari 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "529"
+}, {
+    "nama": "SDS Kemala Bhayangkari 02",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "530"
+}, {
+    "nama": "SDS Kemala Bhayangkari 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "531"
+}, {
+    "nama": "SDS Cita Bangsa",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "532"
+}, {
+    "nama": "SDS Cita Bangsa",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "533"
+}, {
+    "nama": "SDS Islam Nurul Qomar",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "534"
+}, {
+    "nama": "SDS Islam Nurul Qomar",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "535"
+}, {
+    "nama": "SDS Islam Primadana",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "536"
+}, {
+    "nama": "SDS Juara",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "537"
+}, {
+    "nama": "SDS Petra",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "538"
+}, {
+    "nama": "SDS Islam Cahaya Ilmu",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "539"
+}, {
+    "nama": "SDS IT Al  Mawaddah",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "540"
+}, {
+    "nama": "SDS Supriyadi 2",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "541"
+}, {
+    "nama": "SDN Banyumanik 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "542"
+}, {
+    "nama": "SDN Banyumanik 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "543"
+}, {
+    "nama": "SDN Banyumanik 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.077187462749258",
+    "longitude": "110.40760799536194",
+    "id": "544"
+}, {
+    "nama": "SDN Banyumanik 04",
+    "sarana": "Lapangan Basket",
+    "latitude": "-7.075801138948642",
+    "longitude": "110.41468931070531",
+    "id": "545"
+}, {
+    "nama": "SDN Banyumanik 04",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "546"
+}, {
+    "nama": "SDN Gedawang 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.08380525821781",
+    "longitude": "110.4214610511828",
+    "id": "547"
+}, {
+    "nama": "SDN Jabungan",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.082826158105713",
+    "longitude": "110.44884610968548",
+    "id": "548"
+}, {
+    "nama": "SDN Ngesrep 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "549"
+}, {
+    "nama": "SDN Ngesrep 01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "550"
+}, {
+    "nama": "SDN Ngesrep 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "551"
+}, {
+    "nama": "SDN Ngesrep 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "552"
+}, {
+    "nama": "SDN Padangsari 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "553"
+}, {
+    "nama": "SDN Padangsari 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "554"
+}, {
+    "nama": "SDN Pedalangan 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "555"
+}, {
+    "nama": "SDN Pedalangan 01",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "556"
+}, {
+    "nama": "SDN Pedalangan 01",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "557"
+}, {
+    "nama": "SDN Pedalangan 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "558"
+}, {
+    "nama": "SDN Pedalangan 03",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "559"
+}, {
+    "nama": "SDN Pedalangan 03",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "560"
+}, {
+    "nama": "SDN Pudakpayung 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "561"
+}, {
+    "nama": "SDN Pudakpayung 01",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "562"
+}, {
+    "nama": "SDN Pudakpayung 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "563"
+}, {
+    "nama": "SDN Pudakpayung 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "564"
+}, {
+    "nama": "SDN Srondol Kulon 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "565"
+}, {
+    "nama": "SDN Srondol Kulon 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "566"
+}, {
+    "nama": "SDN Srondol Kulon 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "567"
+}, {
+    "nama": "SDN Srondol Kulon 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "568"
+}, {
+    "nama": "SDN Srondol Wetan 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "569"
+}, {
+    "nama": "SDN Srondol Wetan 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "570"
+}, {
+    "nama": "SDN Srondol Wetan 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "571"
+}, {
+    "nama": "SDN Srondol Wetan 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "572"
+}, {
+    "nama": "SDN Srondol Wetan 03",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "573"
+}, {
+    "nama": "SDN Srondol Wetan 03",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "574"
+}, {
+    "nama": "SDN Srondol Wetan 03",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "575"
+}, {
+    "nama": "SDN Srondol Wetan 04",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "576"
+}, {
+    "nama": "SDN Srondol Wetan 04",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "577"
+}, {
+    "nama": "SDN Srondol Wetan 04",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "578"
+}, {
+    "nama": "SDN Srondol Wetan 05",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "579"
+}, {
+    "nama": "SDN Srondol Wetan 05",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "580"
+}, {
+    "nama": "SDN Srondol Wetan 06",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "581"
+}, {
+    "nama": "SDN Srondol Wetan 06",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "582"
+}, {
+    "nama": "SDN Srondol Wetan 06",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "583"
+}, {
+    "nama": "SDN Srondol Wetan 06",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "584"
+}, {
+    "nama": "SDN Tinjomoyo 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "585"
+}, {
+    "nama": "SDN Tinjomoyo 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "586"
+}, {
+    "nama": "SDN Tinjomoyo 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "587"
+}, {
+    "nama": "SDN Tinjomoyo 02",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "588"
+}, {
+    "nama": "SDN Tinjomoyo 02",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "589"
+}, {
+    "nama": "SDN Tinjomoyo 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "590"
+}, {
+    "nama": "SD Bina Bangsa School",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "591"
+}, {
+    "nama": "SD Bina Bangsa School",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "592"
+}, {
+    "nama": "SD Bina Bangsa School",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "593"
+}, {
+    "nama": "SD Bina Bangsa School",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "594"
+}, {
+    "nama": "SD Bukit Aksara",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "595"
+}, {
+    "nama": "SD Bukit Aksara",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "596"
+}, {
+    "nama": "SD GMIS Semarang",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "597"
+}, {
+    "nama": "SD GMIS Semarang",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "598"
+}, {
+    "nama": "SD Islam Hidayatullah",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "599"
+}, {
+    "nama": "SD Islam Hidayatullah",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "600"
+}, {
+    "nama": "SD Islam Hidayatullah",
+    "sarana": "Lapangan Atletik",
+    "latitude": "-7.062597700173167",
+    "longitude": "110.41729515570572",
+    "id": "601"
+}, {
+    "nama": "SD Islam Hidayatullah",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "602"
+}, {
+    "nama": "SD Islam Hidayatullah",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "603"
+}, {
+    "nama": "SD IT Bina Insani",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.009815125587207",
+    "longitude": "110.43390310378872",
+    "id": "604"
+}, {
+    "nama": "SD IT Bina Insani",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "605"
+}, {
+    "nama": "SD Permata Bangsa",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "606"
+}, {
+    "nama": "SD Permata Bangsa",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "607"
+}, {
+    "nama": "SD Permata Bangsa",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "608"
+}, {
+    "nama": "SD Permata Bangsa",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "609"
+}, {
+    "nama": "SD Permata Bangsa",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "610"
+}, {
+    "nama": "SD PT Ulul Abshor",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "611"
+}, {
+    "nama": "SD PT Ulul Abshor",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "612"
+}, {
+    "nama": "SD PT Ulul Abshor",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "613"
+}, {
+    "nama": "SD Santo Antonius 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "614"
+}, {
+    "nama": "SD Santo Antonius 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "615"
+}, {
+    "nama": "SD Santo Antonius 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "616"
+}, {
+    "nama": "SD Semesta",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "617"
+}, {
+    "nama": "SD Semesta",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "618"
+}, {
+    "nama": "SD Semesta",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "619"
+}, {
+    "nama": "SD Semesta",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "620"
+}, {
+    "nama": "SDI Al Azhar 14",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "621"
+}, {
+    "nama": "SDI Al Azhar 14",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "622"
+}, {
+    "nama": "SDI Al Azhar 14",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "623"
+}, {
+    "nama": "SD Islam Fitra Bhakti",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "624"
+}, {
+    "nama": "SD Islam Fitra Bhakti",
+    "sarana": "Lapangan Atletik",
+    "latitude": "-7.040438830094515",
+    "longitude": "110.46755215386037",
+    "id": "625"
+}, {
+    "nama": "SDIT Al Kamilah",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "626"
+}, {
+    "nama": "SDIT Al Kamilah",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "627"
+}, {
+    "nama": "SD Islam Pangeran Diponegoro",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "-7.05435342629779",
+    "longitude": "110.43194140968512",
+    "id": "628"
+}, {
+    "nama": "SDN Bringin 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.011281930687726",
+    "longitude": "110.33043101070469",
+    "id": "629"
+}, {
+    "nama": "SDN Bringin 01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "630"
+}, {
+    "nama": "SDN Bringin 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.995584260627414",
+    "longitude": "110.33183515303283",
+    "id": "631"
+}, {
+    "nama": "SDN Kalipancur 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.016312077732202",
+    "longitude": "110.37529280968502",
+    "id": "632"
+}, {
+    "nama": "SDN Kalipancur 01",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "633"
+}, {
+    "nama": "SDN Kalipancur 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-7.016338826256524",
+    "longitude": "110.38721393008598",
+    "id": "634"
+}, {
+    "nama": "SDN Ngaliyan 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "635"
+}, {
+    "nama": "SDN Ngaliyan 02",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "636"
+}, {
+    "nama": "SDN Ngaliyan 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "637"
+}, {
+    "nama": "SDN Ngaliyan 03",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "638"
+}, {
+    "nama": "SDN Ngaliyan 05",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "639"
+}, {
+    "nama": "SDN Podorejo 01",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "640"
+}, {
+    "nama": "SDN Podorejo 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "641"
+}, {
+    "nama": "SDN Podorejo 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "642"
+}, {
+    "nama": "SDN Podorejo 02",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "643"
+}, {
+    "nama": "SDN Podorejo 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "644"
+}, {
+    "nama": "SDN Purwoyoso 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "645"
+}, {
+    "nama": "SDN Purwoyoso 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "646"
+}, {
+    "nama": "SDN Purwoyoso 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "647"
+}, {
+    "nama": "SDN Purwoyoso 03",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "648"
+}, {
+    "nama": "SDN Purwoyoso 03",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "649"
+}, {
+    "nama": "SDN Purwoyoso 04",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "650"
+}, {
+    "nama": "SDN Purwoyoso 06",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "651"
+}, {
+    "nama": "SDN Purwoyoso 06",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "652"
+}, {
+    "nama": "SDN Tambakaji 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "653"
+}, {
+    "nama": "SDN Tambakaji 01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "654"
+}, {
+    "nama": "SDN Tambakaji 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "655"
+}, {
+    "nama": "SDN Tambakaji 04",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "656"
+}, {
+    "nama": "SDN Tambakaji 04",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "657"
+}, {
+    "nama": "SDN Tambakaji 05",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "658"
+}, {
+    "nama": "SDN Wates 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "659"
+}, {
+    "nama": "SDN Wates 01",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "660"
+}, {
+    "nama": "SDN Wonosari 01",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "661"
+}, {
+    "nama": "SDN Wonosari 02",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "662"
+}, {
+    "nama": "SDN Wonosari 02",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "663"
+}, {
+    "nama": "SDN Wonosari 02",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "664"
+}, {
+    "nama": "SDN Wonosari 03",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "665"
+}, {
+    "nama": "SDN Wonosari 03",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "666"
+}, {
+    "nama": "SD Hj. Isriati Baiturrahman 2",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "667"
+}, {
+    "nama": "SD Hj. Isriati Baiturrahman 2",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "668"
+}, {
+    "nama": "SD Hj. Isriati Baiturrahman 2",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "669"
+}, {
+    "nama": "SD Hj. Isriati Baiturrahman 2",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "670"
+}, {
+    "nama": "SD Hj. Isriati Baiturrahman 2",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "671"
+}, {
+    "nama": "SD Islam Nurul Islam",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "-6.988143908620731",
+    "longitude": "110.36687936735471",
+    "id": "672"
+}, {
+    "nama": "SD Islam Nurul Islam",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "673"
+}, {
+    "nama": "SD Islam Nurul Islam",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "674"
+}, {
+    "nama": "SD Islam Nurul Islam",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "675"
+}, {
+    "nama": "SD Islam Siti Sulaechah",
+    "sarana": "Lapangan Bola Basket",
+    "latitude": "-7.01734002366194",
+    "longitude": "110.38181223851993",
+    "id": "676"
+}, {
+    "nama": "SD Islam Siti Sulaechah",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "677"
+}, {
+    "nama": "SD Sutyo Bimo Kresno",
+    "sarana": "Lapangan Basket",
+    "latitude": "",
+    "longitude": "",
+    "id": "678"
+}, {
+    "nama": "SD Kanisius Beringin",
+    "sarana": "Lapangan Bola Volley",
+    "latitude": "",
+    "longitude": "",
+    "id": "679"
+}, {
+    "nama": "SD Kanisius Beringin",
+    "sarana": "Lapangan Atletik",
+    "latitude": "",
+    "longitude": "",
+    "id": "680"
+}, {
+    "nama": "SD Kanisius Beringin",
+    "sarana": "Lapangan Sepak Bola",
+    "latitude": "",
+    "longitude": "",
+    "id": "681"
+}, {
+    "nama": "SD Kanisius Beringin",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "682"
+}, {
+    "nama": "SDIT Insan Mulia",
+    "sarana": "Lapangan\/Gedung Serbaguna",
+    "latitude": "",
+    "longitude": "",
+    "id": "683"
+}]

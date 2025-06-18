@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&family=Poppins:wght@600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body, p, span, li, input, textarea, button {
+  font-family: 'Nunito', Arial, sans-serif;
+}
+h1, h2, h3, h4, h5, h6, nav, .font-title {
+  font-family: 'Poppins', Arial, sans-serif;
+}
+.font-body {
+  font-family: 'Nunito', Arial, sans-serif;
+}
+
+.hero-title-shadow {
+  text-shadow: 0 2px 8px rgba(0,0,0,0.35), 0 1px 0 #000, 0 0.5px 0 #000;
+}
