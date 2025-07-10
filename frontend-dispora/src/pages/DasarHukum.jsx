@@ -1,8 +1,9 @@
-import React from 'react';
-import { motion } from 'framer-motion';
-import { FaBalanceScale } from 'react-icons/fa';
+import React, { useState, useMemo } from 'react';
+import { FaBalanceScale, FaFilePdf, FaSearch } from 'react-icons/fa';
 
 const DasarHukum = () => {
+  const [searchQuery, setSearchQuery] = useState('');
+
   const documents = [
     {
       id: 1,
@@ -24,61 +25,86 @@ const DasarHukum = () => {
     }
   ];
 
-  return (
-    <motion.div 
-      className="min-h-screen bg-gray-50 py-12 px-4 sm:px-6 lg:px-8"
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      exit={{ opacity: 0 }}
-    >
-      <div className="max-w-7xl mx-auto">
-        <motion.div 
-          className="text-center mb-12"
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6 }}
-        >
-          <div className="flex flex-col items-center mb-4">
-            <FaBalanceScale className="text-4xl text-black mb-3" />
-            <h1 className="text-3xl font-bold text-gray-900">Dasar Hukum</h1>
-          </div>
-          <div className="w-20 h-1 bg-blue-600 mx-auto mb-6"></div>
-          <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            Berikut adalah dokumen-dokumen hukum yang menjadi dasar dalam pelaksanaan layanan informasi publik.
-          </p>
-        </motion.div>
+  const filteredDocuments = useMemo(() => {
+    if (!searchQuery) return documents;
+    
+    const query = searchQuery.toLowerCase();
+    return documents.filter(doc => 
+      doc.title.toLowerCase().includes(query) || 
+      doc.description.toLowerCase().includes(query)
+    );
+  }, [searchQuery, documents]);
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {documents.map((doc, index) => (
-            <motion.div
-              key={doc.id}
-              className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300"
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: index * 0.1, duration: 0.5 }}
-            >
-              <div className="p-6">
-                <h3 className="text-xl font-semibold text-gray-800 mb-2">{doc.title}</h3>
-                <p className="text-gray-600 mb-4">{doc.description}</p>
-                <div className="flex justify-end">
-                  <a
-                    href={doc.file}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors duration-200"
-                  >
-                    <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-                    </svg>
-                    Lihat Dokumen
-                  </a>
-                </div>
-              </div>
-            </motion.div>
-          ))}
+  return (
+    <div className="min-h-screen bg-white py-12 px-4 sm:px-6 lg:px-8">
+      <div className="max-w-4xl mx-auto">
+        <div className="text-center mb-12">
+          <div className="flex flex-col items-center mb-4">
+            <FaBalanceScale className="text-4xl text-navy mb-3" />
+            <h1 className="text-3xl font-bold text-navy">Dasar Hukum</h1>
+          </div>
+          <div className="w-20 h-1 bg-gold mx-auto mb-6"></div>
+          <p className="text-gray-600 max-w-2xl mx-auto mb-8">
+            Dokumen-dokumen hukum yang menjadi dasar dalam pelaksanaan layanan informasi publik.
+          </p>
+          
+          {/* Search Bar */}
+          <div className="relative max-w-2xl mx-auto">
+            <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+              <FaSearch className="text-gray-400" />
+            </div>
+            <input
+              type="text"
+              className="block w-full pl-10 pr-3 py-3 border border-gray-300 rounded-lg bg-white shadow-sm focus:outline-none focus:ring-2 focus:ring-gold focus:border-transparent transition-all duration-200"
+              placeholder="Cari dokumen hukum..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+            />
+          </div>
+        </div>
+
+        <div className="bg-gray-50 rounded-lg p-6">
+          {filteredDocuments.length > 0 ? (
+            <ul className="divide-y divide-gray-200">
+              {filteredDocuments.map((doc) => (
+              <li key={doc.id} className="py-4 hover:bg-gray-100 px-4 rounded transition-colors">
+                <a 
+                  href={doc.file} 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="block group"
+                >
+                  <div className="flex items-start">
+                    <div className="flex-shrink-0 pt-1">
+                      <FaFilePdf className="text-red-500 text-xl mr-4" />
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium text-navy group-hover:text-gold transition-colors">
+                        {doc.title}
+                      </h3>
+                      <p className="text-sm text-gray-500 mt-1">
+                        {doc.description}
+                      </p>
+                      <span className="inline-flex items-center text-sm text-blue-600 mt-2 group-hover:underline">
+                        Lihat dokumen
+                        <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                        </svg>
+                      </span>
+                    </div>
+                  </div>
+                </a>
+              </li>
+            ))}
+          </ul>
+          ) : (
+            <div className="text-center py-8 text-gray-500">
+              Tidak ditemukan dokumen yang sesuai dengan pencarian Anda.
+            </div>
+          )}
         </div>
       </div>
-    </motion.div>
+    </div>
   );
 };
 

@@ -6,6 +6,58 @@
 
 Website resmi Dinas Pemuda dan Olahraga (DISPORA) Kota Semarang yang menampilkan profil, berita, galeri, dan informasi seputar kegiatan kepemudaan dan olahraga di Kota Semarang.
 
+## 🚀 Panduan Instalasi
+
+### Prasyarat
+- Node.js (versi 16.0.0 atau lebih baru)
+- npm (versi 7.0.0 atau lebih baru) atau Yarn
+
+### Langkah-langkah Instalasi
+
+1. **Clone Repository**
+   ```bash
+   git clone https://github.com/username/dispora-rebranding.git
+   cd frontend-dispora
+   ```
+
+2. **Instal Dependensi**
+   ```bash
+   npm install
+   # atau
+   yarn install
+   ```
+
+3. **Konfigurasi Environment**
+   Buat file `.env` di root direktori dan sesuaikan konfigurasi:
+   ```env
+   VITE_API_URL=http://localhost:5000/api
+   ```
+
+4. **Menjalankan Aplikasi**
+   ```bash
+   npm run dev
+   # atau
+   yarn dev
+   ```
+   Aplikasi akan berjalan di http://localhost:5173
+
+### Dependensi Utama
+- `react` & `react-dom` - Library UI
+- `vite` - Build tool
+- `tailwindcss` - Framework CSS
+- `framer-motion` - Animasi
+- `react-icons` - Koleksi ikon
+- `react-router-dom` - Routing
+- `axios` - HTTP client
+- `react-leaflet` & `leaflet` - Peta interaktif
+
+### Dependensi Pengembangan
+- `@vitejs/plugin-react` - Plugin React untuk Vite
+- `autoprefixer` - Menambahkan vendor prefix
+- `postcss` - Memproses CSS
+- `prettier` - Formatter kode
+- `eslint` - Linter kode
+
 ## ✨ Fitur Utama
 
 - **Berita & Artikel**

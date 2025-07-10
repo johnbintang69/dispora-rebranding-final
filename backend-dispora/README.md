@@ -2,6 +2,83 @@
 
 Backend API untuk website Dinas Pemuda dan Olahraga (Dispora) Kota Semarang yang menangani manajemen konten, autentikasi, dan manajemen data.
 
+## 🚀 Panduan Instalasi
+
+### Prasyarat
+- Node.js (versi 16.0.0 atau lebih baru)
+- npm (versi 7.0.0 atau lebih baru) atau Yarn
+- MySQL (versi 8.0 atau lebih baru)
+
+### Langkah-langkah Instalasi
+
+1. **Clone Repository**
+   ```bash
+   git clone https://github.com/username/dispora-rebranding.git
+   cd backend-dispora
+   ```
+
+2. **Instal Dependensi**
+   ```bash
+   npm install
+   # atau
+   yarn install
+   ```
+
+3. **Konfigurasi Database**
+   - Buat database MySQL baru
+   - Salin file `.env.example` menjadi `.env`
+   - Sesuaikan konfigurasi di file `.env`:
+     ```env
+     DB_HOST=localhost
+     DB_USER=your_username
+     DB_PASSWORD=your_password
+     DB_NAME=dispora_db
+     JWT_SECRET=your_jwt_secret
+     UPLOAD_PATH=./uploads
+     ```
+
+4. **Menjalankan Server**
+   ```bash
+   npm run dev
+   # atau
+   yarn dev
+   ```
+   Server akan berjalan di http://localhost:5000
+
+### Dependensi Utama
+- `express` - Framework Node.js
+- `mysql2` - Driver MySQL
+- `sequelize` - ORM untuk database
+- `jsonwebtoken` - Autentikasi JWT
+- `bcryptjs` - Enkripsi password
+- `multer` - Upload file
+- `cors` - Cross-Origin Resource Sharing
+- `dotenv` - Environment variables
+- `morgan` - HTTP request logger
+
+### Dependensi Pengembangan
+- `nodemon` - Auto-reload server
+- `sequelize-cli` - CLI untuk Sequelize
+- `eslint` - Linter kode
+- `prettier` - Formatter kode
+
+### Struktur Direktori
+```
+backend-dispora/
+├── config/           # Konfigurasi database
+├── controllers/      # Logic controller
+├── middleware/       # Custom middleware
+├── migrations/       # Migrasi database
+├── models/           # Model Sequelize
+├── routes/           # Route definitions
+├── uploads/          # File uploads
+├── utils/            # Utility functions
+├── .env              # Environment variables
+├── .env.example      # Contoh environment variables
+├── app.js            # Aplikasi utama
+└── server.js         # Entry point server
+```
+
 ## 🚀 Fitur Utama
 
 - **Autentikasi Admin**

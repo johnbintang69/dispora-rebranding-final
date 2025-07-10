@@ -52,9 +52,9 @@ const AppContent = () => {
           <>
             <main>
               <HeroSection />
-              <AboutSection />
-              <ProgramSection />
               <NewsSection />
+              <ProgramSection />
+              <AboutSection />
               <GallerySection />
             </main>
             {/* Section Ikuti Kami */}
